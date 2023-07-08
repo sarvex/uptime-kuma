@@ -107,7 +107,7 @@
         "ping": "~0.4.2",
         "prom-client": "~13.2.0",
         "prometheus-api-metrics": "~3.2.1",
-        "protobufjs": "~7.1.1",
+        "protobufjs": "~7.2.4",
         "redbean-node": "0.1.4",
         "socket.io": "~4.5.3",
         "socket.io-client": "~4.5.3",
